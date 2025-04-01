@@ -1,6 +1,6 @@
 Dados do aluno
 
--Primeiro Nome: Pedro   
+-Primeiro Nome: Pedro Alexandre   
 -Profissão: Engenheiro de audio
 -Cidade: Rio de janeiro
 -O que faz nas horas vaga: Skateboard
